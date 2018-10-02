@@ -24,10 +24,10 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <java.version>1.8</java.version>
 
-        <INSTANCE_CONNECTION_NAME>psychic-ethos-184404:us-central1:egr327db</INSTANCE_CONNECTION_NAME>
+        <INSTANCE_CONNECTION_NAME>rvroman-215419:us-central1:gdemo</INSTANCE_CONNECTION_NAME>
         <user>root</user>
-        <password>egr327</password>
-        <database>egr327db</database>
+        <password>pudingcup9</password>
+        <database>gdemo</database>
         <sqlURL>jdbc:mysql://google/${database}?cloudSqlInstance=${INSTANCE_CONNECTION_NAME}&amp;socketFactory=com.google.cloud.sql.mysql.SocketFactory&amp;user=${user}&amp;password=${password}&amp;useSSL=false</sqlURL>
     </properties>
     -->
